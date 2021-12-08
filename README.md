@@ -1,4 +1,4 @@
-# Corpus-de-construcciones-multiverbales-del-espa-ol
+# Corpus-de-construcciones-multiverbales-del-espanol
 Corpus de construcciones multiverbales de verbo no finito del Corpus del Español (Davies) y CORLEC
 
 El siguiente es un corpus inicial de construcciones multiverbales del español elaborado para la asignatura Análisis computacional de datos lingüísticos (profesor Javier Vera Zúñiga)
